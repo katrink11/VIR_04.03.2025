@@ -32,4 +32,5 @@
 ### Оригинал:
 ![alt text](image.webp)
 ### Обработка:
-![alt text](image-1.png)
+![alt text](https://github.com/user-attachments/assets/df97182c-93dd-4611-a80a-6a1aa778ba09)
+
