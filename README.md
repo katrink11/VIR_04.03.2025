@@ -29,8 +29,8 @@
 8. Классифицирует фигуры и отображает их на изображении с подписями.
 
 ## 3. Результат
-### Оригинал:
+
 ![alt text](image.webp)
-### Обработка:
+
 ![alt text](https://github.com/user-attachments/assets/df97182c-93dd-4611-a80a-6a1aa778ba09)
 
